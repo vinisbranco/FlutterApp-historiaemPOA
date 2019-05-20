@@ -1,0 +1,4 @@
+#Sun May 19 23:19:46 BRT 2019
+base.0=/home/conseg/AndroidStudioProjects/influenciadores_historia/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
